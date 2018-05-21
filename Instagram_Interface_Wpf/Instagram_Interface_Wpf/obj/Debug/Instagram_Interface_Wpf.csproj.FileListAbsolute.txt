@@ -1,0 +1,46 @@
+c:\users\dogan\documents\visual studio 2017\Projects\Instagram_Interface_Wpf\Instagram_Interface_Wpf\bin\Debug\Instagram_Interface_Wpf.exe.config
+c:\users\dogan\documents\visual studio 2017\Projects\Instagram_Interface_Wpf\Instagram_Interface_Wpf\bin\Debug\Instagram_Interface_Wpf.exe
+c:\users\dogan\documents\visual studio 2017\Projects\Instagram_Interface_Wpf\Instagram_Interface_Wpf\bin\Debug\Instagram_Interface_Wpf.pdb
+c:\users\dogan\documents\visual studio 2017\Projects\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\Instagram_Interface_Wpf.csprojResolveAssemblyReference.cache
+c:\users\dogan\documents\visual studio 2017\Projects\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\MainWindow.g.cs
+c:\users\dogan\documents\visual studio 2017\Projects\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\App.g.cs
+c:\users\dogan\documents\visual studio 2017\Projects\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\Instagram_Interface_Wpf_MarkupCompile.cache
+c:\users\dogan\documents\visual studio 2017\Projects\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\Instagram_Interface_Wpf_MarkupCompile.lref
+c:\users\dogan\documents\visual studio 2017\Projects\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\App.baml
+c:\users\dogan\documents\visual studio 2017\Projects\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\MainWindow.baml
+c:\users\dogan\documents\visual studio 2017\Projects\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\Instagram_Interface_Wpf.g.resources
+c:\users\dogan\documents\visual studio 2017\Projects\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\Instagram_Interface_Wpf.Properties.Resources.resources
+c:\users\dogan\documents\visual studio 2017\Projects\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\Instagram_Interface_Wpf.csproj.GenerateResource.Cache
+c:\users\dogan\documents\visual studio 2017\Projects\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\Instagram_Interface_Wpf.exe
+c:\users\dogan\documents\visual studio 2017\Projects\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\Instagram_Interface_Wpf.pdb
+D:\PROJE\Instagram_Interface_Wpf\Instagram_Interface_Wpf\bin\Debug\Instagram_Interface_Wpf.exe.config
+D:\PROJE\Instagram_Interface_Wpf\Instagram_Interface_Wpf\bin\Debug\Instagram_Interface_Wpf.exe
+D:\PROJE\Instagram_Interface_Wpf\Instagram_Interface_Wpf\bin\Debug\Instagram_Interface_Wpf.pdb
+D:\PROJE\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\Instagram_Interface_Wpf.csprojResolveAssemblyReference.cache
+D:\PROJE\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\MainWindow.g.cs
+D:\PROJE\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\App.g.cs
+D:\PROJE\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\Instagram_Interface_Wpf_MarkupCompile.cache
+D:\PROJE\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\Instagram_Interface_Wpf_MarkupCompile.lref
+D:\PROJE\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\App.baml
+D:\PROJE\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\MainWindow.baml
+D:\PROJE\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\Instagram_Interface_Wpf.g.resources
+D:\PROJE\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\Instagram_Interface_Wpf.Properties.Resources.resources
+D:\PROJE\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\Instagram_Interface_Wpf.csproj.GenerateResource.Cache
+D:\PROJE\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\Instagram_Interface_Wpf.exe
+D:\PROJE\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\Instagram_Interface_Wpf.pdb
+F:\GitHub\Wpf\Instagram_Interface_Wpf\Instagram_Interface_Wpf\bin\Debug\Instagram_Interface_Wpf.exe.config
+F:\GitHub\Wpf\Instagram_Interface_Wpf\Instagram_Interface_Wpf\bin\Debug\Instagram_Interface_Wpf.exe
+F:\GitHub\Wpf\Instagram_Interface_Wpf\Instagram_Interface_Wpf\bin\Debug\Instagram_Interface_Wpf.pdb
+F:\GitHub\Wpf\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\Instagram_Interface_Wpf.csprojAssemblyReference.cache
+F:\GitHub\Wpf\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\MainWindow.g.cs
+F:\GitHub\Wpf\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\App.g.cs
+F:\GitHub\Wpf\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\Instagram_Interface_Wpf_MarkupCompile.cache
+F:\GitHub\Wpf\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\Instagram_Interface_Wpf_MarkupCompile.lref
+F:\GitHub\Wpf\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\App.baml
+F:\GitHub\Wpf\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\MainWindow.baml
+F:\GitHub\Wpf\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\Instagram_Interface_Wpf.g.resources
+F:\GitHub\Wpf\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\Instagram_Interface_Wpf.Properties.Resources.resources
+F:\GitHub\Wpf\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\Instagram_Interface_Wpf.csproj.GenerateResource.cache
+F:\GitHub\Wpf\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\Instagram_Interface_Wpf.csproj.CoreCompileInputs.cache
+F:\GitHub\Wpf\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\Instagram_Interface_Wpf.exe
+F:\GitHub\Wpf\Instagram_Interface_Wpf\Instagram_Interface_Wpf\obj\Debug\Instagram_Interface_Wpf.pdb

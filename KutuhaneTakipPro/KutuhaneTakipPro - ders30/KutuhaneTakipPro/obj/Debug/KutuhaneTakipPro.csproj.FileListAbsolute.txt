@@ -1,0 +1,144 @@
+C:\Users\MilcanX\Desktop\dersler ve proje\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\KutuhaneTakipPro.exe.config
+C:\Users\MilcanX\Desktop\dersler ve proje\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\KutuhaneTakipPro.exe
+C:\Users\MilcanX\Desktop\dersler ve proje\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\KutuhaneTakipPro.pdb
+C:\Users\MilcanX\Desktop\dersler ve proje\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\MainWindow.g.cs
+C:\Users\MilcanX\Desktop\dersler ve proje\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\App.g.cs
+C:\Users\MilcanX\Desktop\dersler ve proje\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro_MarkupCompile.cache
+C:\Users\MilcanX\Desktop\dersler ve proje\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro_MarkupCompile.lref
+C:\Users\MilcanX\Desktop\dersler ve proje\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\MainWindow.baml
+C:\Users\MilcanX\Desktop\dersler ve proje\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro.g.resources
+C:\Users\MilcanX\Desktop\dersler ve proje\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro.Properties.Resources.resources
+C:\Users\MilcanX\Desktop\dersler ve proje\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro.csproj.GenerateResource.Cache
+C:\Users\MilcanX\Desktop\dersler ve proje\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro.exe
+C:\Users\MilcanX\Desktop\dersler ve proje\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro.pdb
+C:\Users\MilcanX\Desktop\dersler ve proje\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\App.baml
+C:\Users\MilcanX\Desktop\dersler ve proje\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\UKontroller\ucKitapListesi.g.cs
+C:\Users\MilcanX\Desktop\dersler ve proje\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\UKontroller\ucKitapListesi.baml
+C:\Users\MilcanX\Desktop\dersler ve proje\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\EntityFramework.dll
+C:\Users\MilcanX\Desktop\dersler ve proje\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MilcanX\Desktop\dersler ve proje\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\System.Data.SQLite.dll
+C:\Users\MilcanX\Desktop\dersler ve proje\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\MilcanX\Desktop\dersler ve proje\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\MilcanX\Desktop\dersler ve proje\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\EntityFramework.xml
+C:\Users\MilcanX\Desktop\dersler ve proje\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MilcanX\Desktop\dersler ve proje\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\System.Data.SQLite.xml
+C:\Users\MilcanX\Desktop\dersler ve proje\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\winKitapEkle.g.cs
+C:\Users\MilcanX\Desktop\dersler ve proje\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\winKitapEkle.baml
+G:\projelerim\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\KutuhaneTakipPro.exe.config
+G:\projelerim\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro.exe
+G:\projelerim\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro.pdb
+G:\projelerim\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\KutuhaneTakipPro.exe
+G:\projelerim\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\KutuhaneTakipPro.pdb
+G:\projelerim\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\EntityFramework.dll
+G:\projelerim\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\EntityFramework.SqlServer.dll
+G:\projelerim\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\System.Data.SQLite.dll
+G:\projelerim\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\System.Data.SQLite.EF6.dll
+G:\projelerim\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\System.Data.SQLite.Linq.dll
+G:\projelerim\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\EntityFramework.xml
+G:\projelerim\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\EntityFramework.SqlServer.xml
+G:\projelerim\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\System.Data.SQLite.xml
+G:\projelerim\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\MainWindow.g.cs
+G:\projelerim\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\UKontroller\ucKitapListesi.g.cs
+G:\projelerim\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\winKitapEkle.g.cs
+G:\projelerim\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\App.g.cs
+G:\projelerim\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro_MarkupCompile.cache
+G:\projelerim\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro_MarkupCompile.lref
+G:\projelerim\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\App.baml
+G:\projelerim\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\MainWindow.baml
+G:\projelerim\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\UKontroller\ucKitapListesi.baml
+G:\projelerim\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\winKitapEkle.baml
+G:\projelerim\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro.g.resources
+G:\projelerim\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro.Properties.Resources.resources
+G:\projelerim\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro.csproj.GenerateResource.Cache
+G:\projelerim\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro_Content.g.cs
+G:\projelerim\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro.csprojResolveAssemblyReference.cache
+G:\projelerim\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\music\fu.wav
+C:\Users\MilcanX\Desktop\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\KutuhaneTakipPro.exe.config
+C:\Users\MilcanX\Desktop\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro.exe
+C:\Users\MilcanX\Desktop\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro.pdb
+C:\Users\MilcanX\Desktop\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\music\fu.wav
+C:\Users\MilcanX\Desktop\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\KutuhaneTakipPro.exe
+C:\Users\MilcanX\Desktop\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\KutuhaneTakipPro.pdb
+C:\Users\MilcanX\Desktop\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\EntityFramework.dll
+C:\Users\MilcanX\Desktop\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MilcanX\Desktop\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\System.Data.SQLite.dll
+C:\Users\MilcanX\Desktop\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\MilcanX\Desktop\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\MilcanX\Desktop\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\EntityFramework.xml
+C:\Users\MilcanX\Desktop\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MilcanX\Desktop\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\System.Data.SQLite.xml
+C:\Users\MilcanX\Desktop\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro.csprojResolveAssemblyReference.cache
+C:\Users\MilcanX\Desktop\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\MainWindow.g.cs
+C:\Users\MilcanX\Desktop\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\UKontroller\ucKitapListesi.g.cs
+C:\Users\MilcanX\Desktop\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\winKitapEkle.g.cs
+C:\Users\MilcanX\Desktop\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\App.g.cs
+C:\Users\MilcanX\Desktop\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro_Content.g.cs
+C:\Users\MilcanX\Desktop\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro_MarkupCompile.cache
+C:\Users\MilcanX\Desktop\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro_MarkupCompile.lref
+C:\Users\MilcanX\Desktop\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\App.baml
+C:\Users\MilcanX\Desktop\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\MainWindow.baml
+C:\Users\MilcanX\Desktop\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\UKontroller\ucKitapListesi.baml
+C:\Users\MilcanX\Desktop\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\winKitapEkle.baml
+C:\Users\MilcanX\Desktop\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro.g.resources
+C:\Users\MilcanX\Desktop\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro.Properties.Resources.resources
+C:\Users\MilcanX\Desktop\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro.csproj.GenerateResource.Cache
+C:\Users\MilcanX\Desktop\projelerim_kitap\Kitap\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\KutuhaneTakipPro.exe.config
+C:\Users\MilcanX\Desktop\projelerim_kitap\Kitap\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro.exe
+C:\Users\MilcanX\Desktop\projelerim_kitap\Kitap\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro.pdb
+C:\Users\MilcanX\Desktop\projelerim_kitap\Kitap\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\music\fu.wav
+C:\Users\MilcanX\Desktop\projelerim_kitap\Kitap\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\KutuhaneTakipPro.exe
+C:\Users\MilcanX\Desktop\projelerim_kitap\Kitap\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\KutuhaneTakipPro.pdb
+C:\Users\MilcanX\Desktop\projelerim_kitap\Kitap\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\EntityFramework.dll
+C:\Users\MilcanX\Desktop\projelerim_kitap\Kitap\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MilcanX\Desktop\projelerim_kitap\Kitap\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\System.Data.SQLite.dll
+C:\Users\MilcanX\Desktop\projelerim_kitap\Kitap\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\MilcanX\Desktop\projelerim_kitap\Kitap\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\MilcanX\Desktop\projelerim_kitap\Kitap\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\EntityFramework.xml
+C:\Users\MilcanX\Desktop\projelerim_kitap\Kitap\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MilcanX\Desktop\projelerim_kitap\Kitap\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\bin\Debug\System.Data.SQLite.xml
+C:\Users\MilcanX\Desktop\projelerim_kitap\Kitap\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro.csprojResolveAssemblyReference.cache
+C:\Users\MilcanX\Desktop\projelerim_kitap\Kitap\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\MainWindow.g.cs
+C:\Users\MilcanX\Desktop\projelerim_kitap\Kitap\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\UKontroller\ucKitapListesi.g.cs
+C:\Users\MilcanX\Desktop\projelerim_kitap\Kitap\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\winKitapEkle.g.cs
+C:\Users\MilcanX\Desktop\projelerim_kitap\Kitap\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\App.g.cs
+C:\Users\MilcanX\Desktop\projelerim_kitap\Kitap\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro_Content.g.cs
+C:\Users\MilcanX\Desktop\projelerim_kitap\Kitap\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro_MarkupCompile.cache
+C:\Users\MilcanX\Desktop\projelerim_kitap\Kitap\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro_MarkupCompile.lref
+C:\Users\MilcanX\Desktop\projelerim_kitap\Kitap\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\App.baml
+C:\Users\MilcanX\Desktop\projelerim_kitap\Kitap\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\MainWindow.baml
+C:\Users\MilcanX\Desktop\projelerim_kitap\Kitap\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\UKontroller\ucKitapListesi.baml
+C:\Users\MilcanX\Desktop\projelerim_kitap\Kitap\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\winKitapEkle.baml
+C:\Users\MilcanX\Desktop\projelerim_kitap\Kitap\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro.g.resources
+C:\Users\MilcanX\Desktop\projelerim_kitap\Kitap\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro.Properties.Resources.resources
+C:\Users\MilcanX\Desktop\projelerim_kitap\Kitap\Kitap\KutuhaneTakipPro\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro.csproj.GenerateResource.Cache
+F:\GitHub\Wpf\KutuhaneTakipPro\KutuhaneTakipPro - ders30\KutuhaneTakipPro\bin\Debug\music\fu.wav
+F:\GitHub\Wpf\KutuhaneTakipPro\KutuhaneTakipPro - ders30\KutuhaneTakipPro\bin\Debug\KutuhaneTakipPro.exe.config
+F:\GitHub\Wpf\KutuhaneTakipPro\KutuhaneTakipPro - ders30\KutuhaneTakipPro\bin\Debug\KutuhaneTakipPro.exe
+F:\GitHub\Wpf\KutuhaneTakipPro\KutuhaneTakipPro - ders30\KutuhaneTakipPro\bin\Debug\KutuhaneTakipPro.pdb
+F:\GitHub\Wpf\KutuhaneTakipPro\KutuhaneTakipPro - ders30\KutuhaneTakipPro\bin\Debug\EntityFramework.dll
+F:\GitHub\Wpf\KutuhaneTakipPro\KutuhaneTakipPro - ders30\KutuhaneTakipPro\bin\Debug\EntityFramework.SqlServer.dll
+F:\GitHub\Wpf\KutuhaneTakipPro\KutuhaneTakipPro - ders30\KutuhaneTakipPro\bin\Debug\System.Data.SQLite.dll
+F:\GitHub\Wpf\KutuhaneTakipPro\KutuhaneTakipPro - ders30\KutuhaneTakipPro\bin\Debug\System.Data.SQLite.EF6.dll
+F:\GitHub\Wpf\KutuhaneTakipPro\KutuhaneTakipPro - ders30\KutuhaneTakipPro\bin\Debug\System.Data.SQLite.Linq.dll
+F:\GitHub\Wpf\KutuhaneTakipPro\KutuhaneTakipPro - ders30\KutuhaneTakipPro\bin\Debug\EntityFramework.xml
+F:\GitHub\Wpf\KutuhaneTakipPro\KutuhaneTakipPro - ders30\KutuhaneTakipPro\bin\Debug\EntityFramework.SqlServer.xml
+F:\GitHub\Wpf\KutuhaneTakipPro\KutuhaneTakipPro - ders30\KutuhaneTakipPro\bin\Debug\System.Data.SQLite.xml
+F:\GitHub\Wpf\KutuhaneTakipPro\KutuhaneTakipPro - ders30\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro.csprojAssemblyReference.cache
+F:\GitHub\Wpf\KutuhaneTakipPro\KutuhaneTakipPro - ders30\KutuhaneTakipPro\obj\Debug\MainWindow.g.cs
+F:\GitHub\Wpf\KutuhaneTakipPro\KutuhaneTakipPro - ders30\KutuhaneTakipPro\obj\Debug\UKontroller\ucKitapListesi.g.cs
+F:\GitHub\Wpf\KutuhaneTakipPro\KutuhaneTakipPro - ders30\KutuhaneTakipPro\obj\Debug\winKitapEkle.g.cs
+F:\GitHub\Wpf\KutuhaneTakipPro\KutuhaneTakipPro - ders30\KutuhaneTakipPro\obj\Debug\App.g.cs
+F:\GitHub\Wpf\KutuhaneTakipPro\KutuhaneTakipPro - ders30\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro_Content.g.cs
+F:\GitHub\Wpf\KutuhaneTakipPro\KutuhaneTakipPro - ders30\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro_MarkupCompile.cache
+F:\GitHub\Wpf\KutuhaneTakipPro\KutuhaneTakipPro - ders30\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro_MarkupCompile.lref
+F:\GitHub\Wpf\KutuhaneTakipPro\KutuhaneTakipPro - ders30\KutuhaneTakipPro\obj\Debug\App.baml
+F:\GitHub\Wpf\KutuhaneTakipPro\KutuhaneTakipPro - ders30\KutuhaneTakipPro\obj\Debug\MainWindow.baml
+F:\GitHub\Wpf\KutuhaneTakipPro\KutuhaneTakipPro - ders30\KutuhaneTakipPro\obj\Debug\UKontroller\ucKitapListesi.baml
+F:\GitHub\Wpf\KutuhaneTakipPro\KutuhaneTakipPro - ders30\KutuhaneTakipPro\obj\Debug\winKitapEkle.baml
+F:\GitHub\Wpf\KutuhaneTakipPro\KutuhaneTakipPro - ders30\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro.g.resources
+F:\GitHub\Wpf\KutuhaneTakipPro\KutuhaneTakipPro - ders30\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro.Properties.Resources.resources
+F:\GitHub\Wpf\KutuhaneTakipPro\KutuhaneTakipPro - ders30\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro.csproj.GenerateResource.cache
+F:\GitHub\Wpf\KutuhaneTakipPro\KutuhaneTakipPro - ders30\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro.csproj.CoreCompileInputs.cache
+F:\GitHub\Wpf\KutuhaneTakipPro\KutuhaneTakipPro - ders30\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro.csproj.CopyComplete
+F:\GitHub\Wpf\KutuhaneTakipPro\KutuhaneTakipPro - ders30\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro.exe
+F:\GitHub\Wpf\KutuhaneTakipPro\KutuhaneTakipPro - ders30\KutuhaneTakipPro\obj\Debug\KutuhaneTakipPro.pdb
